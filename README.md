@@ -1,0 +1,1 @@
+Returns last tweets, number of tweets, following & followers for a specified twitter user
